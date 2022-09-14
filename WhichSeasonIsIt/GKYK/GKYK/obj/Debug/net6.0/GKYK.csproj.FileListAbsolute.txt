@@ -1,0 +1,15 @@
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\bin\Debug\net6.0\GKYK.exe
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\bin\Debug\net6.0\GKYK.deps.json
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\bin\Debug\net6.0\GKYK.runtimeconfig.json
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\bin\Debug\net6.0\GKYK.dll
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\bin\Debug\net6.0\GKYK.pdb
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.AssemblyInfo.cs
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.dll
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\refint\GKYK.dll
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.pdb
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\GKYK.genruntimeconfig.cache
+C:\Users\90536\Desktop\GKYK\GKYK\GKYK\obj\Debug\net6.0\ref\GKYK.dll
